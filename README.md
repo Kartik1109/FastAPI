@@ -12,6 +12,8 @@ If you're new to FastAPI, start by checking out the [official documentation](htt
 
 This repository is organized into the following sections:
 
+I have separated the lessons in the form of branches for easier navigation. Just browse through the branches in a step up manner as each lesson build on top of the other lesson.
+
 - **Tutorials**: Step-by-step guides to help you learn FastAPI from scratch.
 - **Examples**: Real-world examples demonstrating various features and use cases of FastAPI.
 - **Resources**: Useful links, articles, and additional reading materials to deepen your understanding of FastAPI.
