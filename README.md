@@ -25,9 +25,6 @@ I have separated the lessons in the form of branches for easier navigation. Just
 - **Run Examples**: Dive into the `examples` directory to explore real-world examples and experiment with FastAPI.
 - **Contribute**: If you find a bug, have a feature request, or want to contribute improvements, feel free to open an issue or submit a pull request.
 
-## Contributing
-
-Contributions are welcome and encouraged! Whether it's fixing a typo, adding a new tutorial, or improving existing examples, every contribution helps make this repository more valuable for learners. Please see the [contribution guidelines](CONTRIBUTING.md) for more details.
 
 ## Acknowledgments
 
